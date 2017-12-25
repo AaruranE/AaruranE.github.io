@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Hello, World
 
 You can use the [editor on GitHub](https://github.com/AaruranE/AaruranE.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Who am I?
+
+Hello, World!
+
+My name is Aaruran Elamurugaiyan. I'm currently an undergrad at Canada's University of Waterloo.
+
+This website showcases my GitHub profile, and acts as a bit of a resume/CV for potential employers.
+I hope you enjoy your time here.
 
 ### Markdown
 
