@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## Hello, World
 
 ### Who am I?
