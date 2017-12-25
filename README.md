@@ -11,7 +11,7 @@ I hope you enjoy your time here.
 
 ### Places to Visit
 
-[Transcript](https://aarurane.github.io/sections/transcript)
+[Transcript](https://aarurane.github.io/transcript)
 
 
 [Projects](https://aarurane.github.io/projects)
