@@ -1,16 +1,15 @@
 ---
 layout: default
 ---
-Here is where I'll include my university transcript, so far
 
-# Executive Summary
+## Executive Summary
 I am a candidate for a BMath, in Mathematical Physics. 
 
 - Cumulative GPA: 3.81 /4.00, or 88.7 %
 - Current Semester: 3B
 - Expected Graduation: Spring 2019
 
-# Scholarships
+## Scholarships
 - Faculty of Math Scholarship
 - President's Scholarship
 
