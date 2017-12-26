@@ -2,8 +2,6 @@
 
 ### Who am I?
 
-Hello, World!
-
 ![UWaterloo](https://upload.wikimedia.org/wikipedia/en/0/03/Uwaterloo_seal.gif)
 
 
@@ -16,7 +14,8 @@ I hope you enjoy your time here.
 
 [Transcript](https://aarurane.github.io/transcript)
 
-
 [Projects](https://aarurane.github.io/projects)
+
+[LinkedIn](https://www.linkedin.com/in/aaruran-elamurugaiyan-7a1973a8/)
 
 
