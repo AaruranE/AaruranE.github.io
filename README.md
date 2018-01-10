@@ -16,6 +16,6 @@ I hope you enjoy your time here.
 
 [Projects](https://aarurane.github.io/projects)
 
-[LinkedIn](https://www.linkedin.com/in/aaruran-elamurugaiyan-7a1973a8/)
+[LinkedIn](https://www.linkedin.com/in/aarurane/)
 
 
