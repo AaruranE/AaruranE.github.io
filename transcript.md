@@ -30,23 +30,27 @@ In chronological order,
 | PHYS122   | Waves, Electricity and Magnetism| 100 |
 | PHYS175   | Introduction to the Universe| 96  |
 | PHYS175L  | Introduction to the Universe - Lab| 66  |
-| CS136     | Elementary Algorithm Design and Data| 84  |
-| AMATH251  | Introductino to Differential Equations (Advanced level)| 98  |
+| CS136     | Elementary Algorithm Design and Data Abstraction| 84  |
+| AMATH251  | Introduction to Differential Equations (Advanced level)| 98  |
 | AMATH271  | Introduction to Theoretical Mechanics| 95  |
 | MATH235   | Linear Algebra 2 for Honours Mathematics| 82  |
 | MATH 237  | Calculus 3| 81  |
 | STAT240   | Probability (Advanced level)| 82  |
 | AMATH231  | Calculus 4| 97  |
-| AMATH242  | Introduction to Computational Mathematics| 81  |
+| AMATH242/CS371  | Introduction to Computational Mathematics| 81  |
 | CS234     | Data Types and Structures| 83  |
 | PHYS234   | Quantum Physics 1| 96  |
 | PHYS242   | Electricity and Magnetism 1| 100 |
 | AMATH332  | Applied Complex Analysis| 82  |
 | AMATH351  | Ordinary Differential Equations 2| 84  |
-| PHYS342   | Electricityy and Magnetism 2| 95  |
+| PHYS342   | Electricity and Magnetism 2| 95  |
 | PHYS358   | Thermal Physics| 86  |
 | PHYS363   | Intermediate Classical Mechanics| 97  |
 | STAT231   | Statistics | 90  |
+| PHYS359   | Statistical Mechanics | 82  |
+| AMATH361  | Continuum Mechanics | 85  |
+
+
 
 
 
