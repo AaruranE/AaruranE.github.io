@@ -12,7 +12,7 @@ I hope you enjoy your time here.
 
 ### Places to Visit
 
-[Transcript](https://aarurane.github.io/transcript)
+[Grades](https://aarurane.github.io/grades)
 
 [Projects](https://aarurane.github.io/projects)
 

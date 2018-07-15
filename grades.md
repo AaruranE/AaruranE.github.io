@@ -6,7 +6,7 @@ layout: default
 I am a candidate for a BMath, in Mathematical Physics. 
 
 - Cumulative GPA: 3.81 /4.00, or 88.7 %
-- Current Semester: 3B
+- Current Semester: 4A
 - Expected Graduation: Spring 2019
 
 ## Scholarships
