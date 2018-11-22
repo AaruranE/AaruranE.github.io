@@ -2,12 +2,9 @@
 
 ### Who am I?
 
-![UWaterloo](https://upload.wikimedia.org/wikipedia/en/0/03/Uwaterloo_seal.gif)
-
-
 My name is Aaruran Elamurugaiyan. I'm currently an undergrad at Canada's University of Waterloo.
 
-This website showcases my GitHub profile, and acts as a bit of a resume/CV for potential employers.
+This website showcases some of my GitHub profile, and acts as a resume/CV.
 I hope you enjoy your time here.
 
 ### Places to Visit
