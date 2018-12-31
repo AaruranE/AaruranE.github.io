@@ -3,10 +3,9 @@ layout: default
 ---
 
 ## Executive Summary
-I am a candidate for a BMath, in Mathematical Physics. 
+I am a candidate for a BMath, in Applied Mathematics
 
-- Cumulative GPA: 88.34 %
-- Current Semester: 4A
+- Current Semester: 4B
 - Expected Completion: April 2019
 
 ## Scholarships
@@ -49,6 +48,14 @@ In chronological order,
 | STAT231   | Statistics | 90  |
 | PHYS359   | Statistical Mechanics | 82  |
 | AMATH361  | Continuum Mechanics | 85  |
+| AMATH331  | Applied Real Analysis | 97  |
+| AMATH353  | Partial Differential Equations | 85 |
+| AMATH373  | Quantum Theory 1 | INC |
+| AMATH342  | Computational Methods for Differential Equations | 91 |
+| AMATH473  | Advanced Quantum Theory | 89 | 
+| AMATH455  | Calculus of Variations | 89 |
+| STAT341   | Computational Statistics and Data Analysis | 85 | 
+| STAT330   | Mathematical Statistics | 85 |
 
 
 
