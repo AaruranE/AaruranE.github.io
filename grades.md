@@ -50,13 +50,17 @@ In chronological order,
 | AMATH361  | Continuum Mechanics | 85  |
 | AMATH331  | Applied Real Analysis | 97  |
 | AMATH353  | Partial Differential Equations | 85 |
-| AMATH373  | Quantum Theory 1 | INC |
+| AMATH373  | Quantum Theory 1 | 84 |
 | AMATH342  | Computational Methods for Differential Equations | 91 |
 | AMATH473  | Advanced Quantum Theory | 89 | 
 | AMATH455  | Calculus of Variations | 89 |
 | STAT341   | Computational Statistics and Data Analysis | 85 | 
 | STAT330   | Mathematical Statistics | 85 |
-
+| STAT441   | Statistical Learning - Classification | 84 |
+| STAT450   | Estimation and Hypothesis Testing | 90 |
+| CS467     | Introduction to Quantum Information Processing | 82 |
+| AMATH455  | Control Theory | 87 |
+| STAT440   | Computational Inference | 92 |
 
 
 
