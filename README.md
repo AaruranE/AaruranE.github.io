@@ -2,9 +2,9 @@
 
 ### Who am I?
 
-My name is Aaruran Elamurugaiyan. I'm currently an undergrad at Canada's University of Waterloo.
+My name is Aaruran Loganathan. I'm currently a graduate student at the University of Waterloo.
 
-This website showcases some of my GitHub profile, and acts as a resume/CV.
+This website showcases some of my GitHub profile.
 I hope you enjoy your time here.
 
 ### Places to Visit
