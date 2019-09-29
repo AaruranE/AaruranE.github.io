@@ -3,18 +3,25 @@ layout: default
 ---
 
 ## Executive Summary
-I am a candidate for a BMath, in Applied Mathematics
+I am a current graduate student, in the University of Waterloo's Master of Data Science and Artificial Intelligence.
+I've been admitted to the program's first-ever offering. I expect to complete this degree in December 2020.
 
-- Current Semester: 4B
-- Expected Completion: April 2019
+I earned a BMath in Applied Mathematics in April 2019.
 
 ## Scholarships
 - Faculty of Math Scholarship
 - President's Scholarship
 
-## Courses
-In chronological order,
+## Graduate Courses
+TBD = To be determined (either the course is in-progress, or grades have not been released yet).
+| Course Code | Course Name | Grade |
+|---|---|---|
+| CS 600 | Fundamentals of Computer Science for Data Science | TBD |
+| CS 680 | Introduction to Machine Learning | TBD |
+| CS 631 | Data-Intensive Distributed Analytics | TBD |
 
+## Undegraduate Courses and Grades
+In chronological order,
 
 | Course Code | Couse Name | Grade  |
 |---|---|---|
@@ -61,8 +68,3 @@ In chronological order,
 | CS467     | Introduction to Quantum Information Processing | 82 |
 | AMATH455  | Control Theory | 87 |
 | STAT440   | Computational Inference | 92 |
-
-
-
-
-
