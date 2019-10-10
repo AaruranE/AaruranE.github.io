@@ -14,6 +14,7 @@ I earned a BMath in Applied Mathematics in April 2019.
 
 ## Graduate Courses
 TBD = To be determined (either the course is in-progress, or grades have not been released yet).
+
 | Course Code | Course Name | Grade |
 |---|---|---|
 | CS 600 | Fundamentals of Computer Science for Data Science | TBD |
