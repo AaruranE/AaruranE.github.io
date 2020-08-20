@@ -20,9 +20,10 @@ TBD = To be determined (either the course is in-progress, or grades have not bee
 | CS 600 | Fundamentals of Computer Science for Data Science | 100 |
 | CS 680 | Introduction to Machine Learning | 95 |
 | CS 631 | Data-Intensive Distributed Analytics | 94 |
-| STAT 847 | Exploratory Data Analysis | TBD |
-| CS 698 | Neural Networks | TBD |
-| STAT 929 | Time Series I  | TBD |
+| STAT 847 | Exploratory Data Analysis | 88 |
+| CS 698 | Neural Networks | 91 |
+| STAT 929 | Time Series 1 | 92 |
+| CS 885 | Reinforcement Learning | TBD |
 
 ## Undegraduate Courses and Grades
 In chronological order,
