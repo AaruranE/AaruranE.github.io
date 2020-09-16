@@ -4,7 +4,7 @@ layout: default
 
 ## Executive Summary
 I am a current graduate student, in the University of Waterloo's Master of Data Science and Artificial Intelligence.
-I've been admitted to the program's first-ever offering. I expect to complete this degree in December 2020.
+I've been admitted to the program's first-ever offering. I expect to complete this degree in April 2021.
 
 I earned a BMath in Applied Mathematics in April 2019.
 
