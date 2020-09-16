@@ -23,7 +23,8 @@ TBD = To be determined (either the course is in-progress, or grades have not bee
 | STAT 847 | Exploratory Data Analysis | 88 |
 | CS 698 | Neural Networks | 91 |
 | STAT 929 | Time Series 1 | 92 |
-| CS 885 | Reinforcement Learning | TBD |
+| CS 885 | Reinforcement Learning | 93 |
+| CS 794 | Optimization for Data Science | TBD |
 
 ## Undegraduate Courses and Grades
 In chronological order,
